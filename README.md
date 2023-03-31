@@ -1,8 +1,5 @@
 # SISTEM INFORMASI GEOGRAFIS 2023 - SEBARAN LOKASI BANK BRI LAMPUNG
 # UTS-SIG-IRSAN ROMARDI HARAHAP-120140043-R
-
-# [Github Link IRSAN ROMARDI HARAHAP_120140043 UTS PAM RA](https://github.com/Irsannerha/UTS-PAM-2023)
-
 # [Link Laporan Pengerjaan UTS SIG- R](https://drive.google.com/file/d/1-h1lPgz8HD2TrI_WLW855spQR_-D1g6E/view?usp=share_link)
 
 
